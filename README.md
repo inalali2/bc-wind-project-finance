@@ -61,4 +61,3 @@ No interest during construction, DSRA, upfront fees, curtailment or decommission
 - $74/MWh weighted average levelized price (2024$), about 4,830 GWh/yr: https://myeastkootenaynow.com/?p=43673
 
 *Hypothetical asset; assumptions are illustrative. Not investment advice.*
-# bc-wind-project-finance
